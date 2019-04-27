@@ -1,0 +1,35 @@
+{
+  "config": {
+    "title": "Gatsby Starter Default",
+    "description": "A simple starter to get up and developing quickly with Gatsby",
+    "menu": [],
+    "version": "0.1.0",
+    "repository": "https://github.com/gatsbyjs/gatsby-starter-default",
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {},
+    "separator": "-"
+  },
+  "props": [],
+  "entries": [
+    {
+      "key": "src/pages/example.mdx",
+      "value": {
+        "name": "Example",
+        "id": "d286554c057d5d2c24519c0de283c82c",
+        "filepath": "src/pages/example.mdx",
+        "link": "https://github.com/gatsbyjs/gatsby-starter-default/edit/master/src/pages/example.mdx",
+        "slug": "src-pages-example",
+        "route": "/src-pages-example",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "im-just-an-example",
+            "depth": 1,
+            "value": "I'm just an example"
+          }
+        ]
+      }
+    }
+  ]
+}
