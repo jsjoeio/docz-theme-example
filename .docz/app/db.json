@@ -10,7 +10,19 @@
     "themeConfig": {},
     "separator": "-"
   },
-  "props": [],
+  "props": [
+    {
+      "key": "src/pages/index.js",
+      "value": [
+        {
+          "description": "",
+          "displayName": "Index",
+          "methods": [],
+          "actualName": "Index"
+        }
+      ]
+    }
+  ],
   "entries": [
     {
       "key": "src/pages/example.mdx",
